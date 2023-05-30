@@ -1,4 +1,4 @@
-# text2faceGANText2FaceGAN App
+# text2faceGAN App
 Welcome to the Text2FaceGAN App! This application allows you to generate realistic face images based on textual descriptions using PyQt5 and DFGAN models.
 
 Features
