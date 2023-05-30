@@ -14,7 +14,7 @@ PyQt5
 TensorFlow
 DFGAN models
 
-## Installation
+#### Installation
 
 1. Clone the repository: `git clone https://github.com/Nitish1206/text2faceGAN.git`
 
@@ -24,7 +24,7 @@ DFGAN models
 
 4. Download the trained DFGAN models and place them in the models directory.  [link](https://drive.google.com/file/d/1023WX7RmGMP-F2eosofLSHk3kYNH1_Qe/view?usp=share_link)
 
-## Usage
+#### Usage
 To launch the Text2FaceGAN App, run the following command:
 
 Once the application is running, follow these steps:
@@ -33,7 +33,7 @@ Once the application is running, follow these steps:
 2. Click on the "Generate" button to generate the face image.
 3. The generated face image will be displayed in the application window.
 
-## Troubleshooting
+#### Troubleshooting
 If you encounter any issues while running the Text2FaceGAN App, please try the following:
 
 Make sure you have installed all the required dependencies.
@@ -42,7 +42,7 @@ Check if your Python environment is properly set up and activated.
 
 If the problem persists, please feel free to reach out for support.
 
-Contributing
+#### Contributing
 welcome contributions to improve the Text2FaceGAN App. If you have any ideas, bug fixes, or enhancements, please submit a pull request. I appreciate your help!
 
 
